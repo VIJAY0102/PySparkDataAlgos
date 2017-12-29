@@ -1,1 +1,6 @@
 https://spark.apache.org/docs/1.1.1/api/python/pyspark.rdd.RDD-class.html
+
+
+why spark's mapPartitions transformation is faster than map
+
+https://martin.atlassian.net/wiki/spaces/lestermartin/blog/2016/05/19/67043332/why+spark+s+mapPartitions+transformation+is+faster+than+map+calls+your+function+once+partition+not+once+element
